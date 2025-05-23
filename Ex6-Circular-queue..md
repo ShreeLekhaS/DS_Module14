@@ -50,7 +50,7 @@ int deQueue() {
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/6064a086-2856-4825-9b16-847cf6170ade)
+![image](https://github.com/user-attachments/assets/356a82ca-fd0f-4060-ac12-87adc29dd5b9)
 
 
 
